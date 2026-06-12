@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "iTan6lapQfA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mabouissa\\Downloads\\weather-app-demo\\WeatherApp\\WeatherApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mabouissa\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.9\\microsoft.aspnetcore.openapi.10.0.9.nupkg.sha512",
+    "C:\\Users\\mabouissa\\.nuget\\packages\\microsoft.extensions.apidescription.server\\10.0.0\\microsoft.extensions.apidescription.server.10.0.0.nupkg.sha512",
+    "C:\\Users\\mabouissa\\.nuget\\packages\\microsoft.extensions.diagnostics.healthchecks\\10.0.9\\microsoft.extensions.diagnostics.healthchecks.10.0.9.nupkg.sha512",
+    "C:\\Users\\mabouissa\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512",
+    "C:\\Users\\mabouissa\\.nuget\\packages\\swashbuckle.aspnetcore\\10.2.1\\swashbuckle.aspnetcore.10.2.1.nupkg.sha512",
+    "C:\\Users\\mabouissa\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\10.2.1\\swashbuckle.aspnetcore.swagger.10.2.1.nupkg.sha512",
+    "C:\\Users\\mabouissa\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\10.2.1\\swashbuckle.aspnetcore.swaggergen.10.2.1.nupkg.sha512",
+    "C:\\Users\\mabouissa\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\10.2.1\\swashbuckle.aspnetcore.swaggerui.10.2.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1510",
+      "level": "Warning",
+      "message": "PackageReference Microsoft.Extensions.Diagnostics.HealthChecks will not be pruned. Consider removing this package from your dependencies, as it is likely unnecessary.",
+      "projectPath": "C:\\Users\\mabouissa\\Downloads\\weather-app-demo\\WeatherApp\\WeatherApp.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\mabouissa\\Downloads\\weather-app-demo\\WeatherApp\\WeatherApp.csproj",
+      "libraryId": "Microsoft.Extensions.Diagnostics.HealthChecks",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
